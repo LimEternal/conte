@@ -22,7 +22,7 @@
 
 [Сборник задач](https://github.com/LimEternal/conte/tree/b80a37a51946ec0b8e497cef77a3ce10a62fb247/content_automatisation) по автоматизации рутинной контентной работы с CRM.
 
-[Складской учет](https://github.com/LimEternal/conte/tree/b80a37a51946ec0b8e497cef77a3ce10a62fb247/inventory_control) дл общепита в Excel (нет ничего более постоянного, чем временное решение "пока не определились с системой)...
+[Складской учет](https://github.com/LimEternal/conte/tree/b80a37a51946ec0b8e497cef77a3ce10a62fb247/inventory_control) для общепита в Excel (нет ничего более постоянного, чем временное решение "пока не определились с системой")...
 
 Маленькая [сводка по неплательщикам](https://github.com/LimEternal/conte/tree/b80a37a51946ec0b8e497cef77a3ce10a62fb247/realty_control) для турецкого застройщика.
 
